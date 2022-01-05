@@ -5,7 +5,10 @@ import java.util.Date;
 import java.util.List;
 
 import org.springframework.stereotype.Service;
+/**
+Provices the hardcoded service for the UI
 
+ */
 @Service
 public class TodoHardcodedService {
 

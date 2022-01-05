@@ -5,6 +5,10 @@ import java.util.Date;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+/**
+This is the entity class of Todo
+
+ */
 @Entity
 public class Todo {
 
